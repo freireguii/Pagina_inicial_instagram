@@ -1,5 +1,5 @@
 # Pagina_inicial_instagram
-Com o propósito de estudo, criei a página inicial do insta :).
+Com o propósito de estudo, recriei a página inicial do insta :).
 
 <img src="https://img.shields.io/badge/status-completed-green">
 <h1 align="center">Projeto da página inicial do Instagram.</h1>
